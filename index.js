@@ -2,7 +2,7 @@ let SlackBot = require("slackbots");
 let channel = "general";
 let iconUrl = 'https://firebasestorage.googleapis.com/v0/b/ycsung-studio.appspot.com/o/appleIcon180.png?alt=media&token=038b9083-25bd-4133-af3e-6f0d9c5ddd46';
 let bot = new SlackBot({
-    token: "xoxb-389597258145-764400409831-dF1F50IiPhidkozT9wURIEFy",
+    token: process.env.TOKEN,
     name: "bd-helper",
     as_user: true
 });
