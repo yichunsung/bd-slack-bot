@@ -1,4 +1,5 @@
 let SlackBot = require("slackbots");
+require('dotenv').config();
 let channel = "general";
 let iconUrl = 'https://firebasestorage.googleapis.com/v0/b/ycsung-studio.appspot.com/o/appleIcon180.png?alt=media&token=038b9083-25bd-4133-af3e-6f0d9c5ddd46';
 let bot = new SlackBot({

@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/yichunsung/bd-slack-bot#readme",
   "dependencies": {
+    "dotenv": "^8.1.0",
     "slackbots": "^1.2.0"
   }
 }
