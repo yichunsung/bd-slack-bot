@@ -13,3 +13,7 @@
 ## Reference for Python
 
 1. [lins05/slackbot](https://github.com/lins05/slackbot)
+
+2. [How to initialize Python Slackbot module?](https://stackoverflow.com/questions/56797185/how-to-initialize-python-slackbot-module)
+
+3. [SlackBot doesn't respond to messages according to custom plugin ](https://github.com/lins05/slackbot/issues/69)
